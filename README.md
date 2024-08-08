@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author- Anusha G P
+Author- Anusha G Acharya
